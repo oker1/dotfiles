@@ -1,0 +1,23 @@
+[user]
+	name = Zsolt Takács
+	email = zsolt@takacs.cc
+[branch]
+	autosetuprebase = always
+[push]
+	default = current
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[alias]
+	s = status
+	b = branch
+	co = checkout
+	ci = commit
+	d = diff
+	l = log
+	lo = log --pretty=format:'%h <%an> %s'
+	unstage = "reset HEAD "
+	hreset = reset --hard
+	fci = commit --no-verify
