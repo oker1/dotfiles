@@ -7,3 +7,6 @@
 [submodule ".vim/bundle/nerdtree"]
 	path = .vim/bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule "Library/Application Support/Sublime Text 2/Packages/Git"]
+	path = Library/Application Support/Sublime Text 2/Packages/Git
+	url = https://github.com/kemayo/sublime-text-2-git.git
