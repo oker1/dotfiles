@@ -10,3 +10,6 @@
 [submodule "Library/Application Support/Sublime Text 2/Packages/Git"]
 	path = Library/Application Support/Sublime Text 2/Packages/Git
 	url = https://github.com/kemayo/sublime-text-2-git.git
+[submodule ".zsh/git-prompt"]
+	path = .zsh/git-prompt
+	url = https://github.com/olivierverdier/zsh-git-prompt.git
