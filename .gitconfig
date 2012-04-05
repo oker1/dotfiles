@@ -21,3 +21,5 @@
 	unstage = "reset HEAD "
 	hreset = reset --hard
 	fci = commit --no-verify
+[rerere]
+	enabled = 1
