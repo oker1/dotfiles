@@ -23,3 +23,5 @@
 	fci = commit --no-verify
 [rerere]
 	enabled = 1
+[credential]
+	helper = osxkeychain
