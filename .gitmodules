@@ -19,3 +19,6 @@
 [submodule "Library/Application Support/Sublime Text 2/Packages/SublimeChef"]
 	path = Library/Application Support/Sublime Text 2/Packages/SublimeChef
 	url = https://github.com/cabeca/SublimeChef.git
+[submodule "Library/Application Support/Sublime Text 2/Packages/IndentGuides"]
+	path = Library/Application Support/Sublime Text 2/Packages/IndentGuides
+	url = https://github.com/SublimeText/IndentGuides.git
