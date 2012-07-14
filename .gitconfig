@@ -3,6 +3,7 @@
 	email = zsolt@takacs.cc
 [branch]
 	autosetuprebase = always
+	autosetupmerge = true
 [push]
 	default = upstream
 [color]
