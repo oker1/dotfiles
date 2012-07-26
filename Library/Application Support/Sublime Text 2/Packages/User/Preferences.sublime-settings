@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"detect_indentation": false,
+	"draw_white_space": "all",
+	"font_face": "PT Mono",
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tabSize": 4,
+	"translateTabsToSpaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"rulers": [100]
+}
