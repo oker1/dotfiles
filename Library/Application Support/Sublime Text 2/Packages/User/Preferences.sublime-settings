@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"color_scheme": "Packages/TomorrowTheme.tmbundle/Tomorrow-Night.tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": "all",
 	"font_face": "PT Mono",
@@ -8,8 +8,11 @@
 	[
 		"Vintage"
 	],
+	"rulers":
+	[
+		100
+	],
 	"tabSize": 4,
 	"translateTabsToSpaces": false,
-	"trim_trailing_white_space_on_save": true,
-	"rulers": [100]
+	"trim_trailing_white_space_on_save": true
 }
