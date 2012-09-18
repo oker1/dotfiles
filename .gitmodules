@@ -25,3 +25,6 @@
 [submodule "Library/Application Support/Sublime Text 2/Packages/TomorrowTheme.tmbundle"]
 	path = Library/Application Support/Sublime Text 2/Packages/TomorrowTheme.tmbundle
 	url = https://github.com/theymaybecoders/sublime-tomorrow-theme
+[submodule "Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein"]
+	path = Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein
+	url = https://github.com/misfo/Shell-Turtlestein
