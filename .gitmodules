@@ -31,3 +31,6 @@
 [submodule ".rbenv"]
 	path = .rbenv
 	url = git://github.com/sstephenson/rbenv.git
+[submodule ".ruby-build"]
+	path = .ruby-build
+	url = https://github.com/sstephenson/ruby-build.git
