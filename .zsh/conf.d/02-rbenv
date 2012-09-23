@@ -1,1 +1,3 @@
 eval "$(rbenv init -)"
+
+export PATH="~/.rbenv/versions/$(rbenv global)/bin":$PATH
