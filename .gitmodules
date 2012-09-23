@@ -31,3 +31,6 @@
 [submodule ".ruby-build"]
 	path = .ruby-build
 	url = https://github.com/sstephenson/ruby-build.git
+[submodule "Library/Application Support/Sublime Text 2/Packages/Puppet"]
+	path = Library/Application Support/Sublime Text 2/Packages/Puppet
+	url = https://github.com/JeffChan/sublime-text-puppet.git
