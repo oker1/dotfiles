@@ -28,3 +28,6 @@
 [submodule "Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein"]
 	path = Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein
 	url = https://github.com/misfo/Shell-Turtlestein
+[submodule ".rbenv"]
+	path = .rbenv
+	url = git://github.com/sstephenson/rbenv.git
