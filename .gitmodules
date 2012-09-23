@@ -13,9 +13,6 @@
 [submodule ".zsh/git-prompt"]
 	path = .zsh/git-prompt
 	url = https://github.com/olivierverdier/zsh-git-prompt.git
-[submodule "Library/Application Support/Sublime Text 2/LinkedPackages/Puppet"]
-	path = Library/Application Support/Sublime Text 2/LinkedPackages/Puppet
-	url = https://github.com/JeffChan/sublime-text-puppet.git
 [submodule "Library/Application Support/Sublime Text 2/Packages/SublimeChef"]
 	path = Library/Application Support/Sublime Text 2/Packages/SublimeChef
 	url = https://github.com/cabeca/SublimeChef.git
