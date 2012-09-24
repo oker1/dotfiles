@@ -1,5 +1,6 @@
 [
-	{ "keys": ["super+space"], "command": "code_intel_auto_complete" },
-	{ "keys": ["super+f3"], "command": "goto_python_definition" },
-    { "keys": ["super+alt+left"], "command": "back_to_python_definition"}
+    { "keys": ["super+space"], "command": "code_intel_auto_complete" },
+    { "keys": ["super+f3"], "command": "goto_python_definition" },
+    { "keys": ["super+alt+left"], "command": "back_to_python_definition"},
+    { "keys": ["super+shift+."], "command": "erb" }
 ]
