@@ -14,7 +14,6 @@
 		100
 	],
 	"tabSize": 4,
-	"translateTabsToSpaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"default_line_ending": "LF"
 }
