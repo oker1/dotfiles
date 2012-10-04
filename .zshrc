@@ -44,7 +44,5 @@ source .zsh/git-prompt/zshrc.sh
 
 PROMPT='%B%m%~%b$(git_super_status) %# '
 
-export LIQUIBASE_HOME=/opt/local/liquibase
-
 export EDITOR=nano
 unsetopt correct_all
