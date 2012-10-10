@@ -15,5 +15,6 @@
 	],
 	"tabSize": 4,
 	"trim_trailing_white_space_on_save": true,
-	"default_line_ending": "LF"
+	"default_line_ending": "LF",
+	"ignored_packages": ["Vintage", "Erlang"]
 }

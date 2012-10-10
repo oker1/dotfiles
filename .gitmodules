@@ -40,3 +40,9 @@
 [submodule "Library/Application Support/Sublime Text 2/Packages/Clipboard History"]
 	path = Library/Application Support/Sublime Text 2/Packages/Clipboard History
 	url = https://github.com/kemayo/sublime-text-2-clipboard-history
+[submodule "Library/Application Support/Sublime Text 2/Packages/Sublime-Erlang"]
+	path = Library/Application Support/Sublime Text 2/Packages/Sublime-Erlang
+	url = https://github.com/fjl/Sublime-Erlang.git
+[submodule "Library/Application Support/Sublime Text 2/Packages/SublimErl"]
+	path = Library/Application Support/Sublime Text 2/Packages/SublimErl
+	url = https://github.com/ostinelli/SublimErl.git
