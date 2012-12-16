@@ -1,2 +1,2 @@
 # rbenv, macports
-export PATH=$HOME/.rbenv/bin:/opt/local/bin:/opt/local/sbin:$PATH
+export PATH=$HOME/.rbenv/bin:/opt/local/bin:/opt/local/sbin:$HOME/Dev/java/gradle/bin:$PATH
