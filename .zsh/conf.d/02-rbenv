@@ -19,3 +19,5 @@ function rubyswitch() {
 		export PATH="~/.rbenv/versions/$(rbenv shell)/bin":$RBENV_PATH_BACKUP
 	fi
 }
+
+alias be="bundle exec"
