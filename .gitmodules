@@ -46,3 +46,6 @@
 [submodule "Library/Application Support/Sublime Text 2/Packages/SublimErl"]
 	path = Library/Application Support/Sublime Text 2/Packages/SublimErl
 	url = https://github.com/ostinelli/SublimErl.git
+[submodule "Library/Application Support/Sublime Text 2/Packages/Cucumber"]
+	path = Library/Application Support/Sublime Text 2/Packages/Cucumber
+	url = https://github.com/npverni/cucumber-sublime2-bundle.git
