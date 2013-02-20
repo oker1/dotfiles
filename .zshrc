@@ -35,12 +35,12 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 
-for file in .zsh/conf.d/*
+for file in $HOME/.zsh/conf.d/*
 do
   source $file
 done
 
-source .zsh/git-prompt/zshrc.sh
+source $HOME/.zsh/git-prompt/zshrc.sh
 
 PROMPT='%B%m%~%b$(git_super_status) %# '
 
