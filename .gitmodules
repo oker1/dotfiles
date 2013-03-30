@@ -36,7 +36,7 @@
 	url = https://github.com/JeffChan/sublime-text-puppet.git
 [submodule "Library/Application Support/Sublime Text 2/Packages/SublimeERB"]
 	path = Library/Application Support/Sublime Text 2/Packages/SublimeERB
-	url = https://github.com/oker1/SublimeERB.git
+	url = https://github.com/eddorre/SublimeERB.git
 [submodule "Library/Application Support/Sublime Text 2/Packages/Clipboard History"]
 	path = Library/Application Support/Sublime Text 2/Packages/Clipboard History
 	url = https://github.com/kemayo/sublime-text-2-clipboard-history
