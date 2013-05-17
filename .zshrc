@@ -45,4 +45,4 @@ source $HOME/.zsh/git-prompt/zshrc.sh
 PROMPT='%B%m%~%b$(git_super_status) %# '
 
 export EDITOR=nano
-unsetopt correct_all
+unsetopt correct
