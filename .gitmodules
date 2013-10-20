@@ -52,6 +52,3 @@
 [submodule "Library/Application Support/Sublime Text 2/Packages/GitGutter"]
 	path = Library/Application Support/Sublime Text 2/Packages/GitGutter
 	url = https://github.com/jisaacks/GitGutter.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/SublimeREPL"]
-	path = Library/Application Support/Sublime Text 2/Packages/SublimeREPL
-	url = https://github.com/wuub/SublimeREPL.git

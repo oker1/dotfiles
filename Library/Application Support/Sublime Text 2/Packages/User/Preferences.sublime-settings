@@ -1,7 +1,7 @@
 {
 	"color_scheme": "Packages/TomorrowTheme.tmbundle/Tomorrow-Night.tmTheme",
+	"default_line_ending": "LF",
 	"detect_indentation": true,
-	"save_on_focus_lost": true,
 	"draw_white_space": "all",
 	"font_face": "PT Mono",
 	"font_size": 14.0,
@@ -13,8 +13,7 @@
 	[
 		100
 	],
+	"save_on_focus_lost": true,
 	"tabSize": 4,
-	"trim_trailing_white_space_on_save": true,
-	"default_line_ending": "LF",
-	"ignored_packages": ["Vintage"]
+	"trim_trailing_white_space_on_save": true
 }
