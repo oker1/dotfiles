@@ -1,1 +1,4 @@
 . $HOME/.rvm/scripts/rvm
+
+# needed for HEAD^ to work
+setopt NO_NOMATCH
