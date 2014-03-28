@@ -49,3 +49,9 @@
 [submodule "Library/Application Support/Sublime Text 2/Packages/GitGutter"]
 	path = Library/Application Support/Sublime Text 2/Packages/GitGutter
 	url = https://github.com/jisaacks/GitGutter.git
+[submodule "Library/Application Support/Sublime Text 2/Packages/Better CoffeeScript"]
+	path = Library/Application Support/Sublime Text 2/Packages/Better CoffeeScript
+	url = https://github.com/aponxi/sublime-better-coffeescript.git
+[submodule "Library/Application Support/Sublime Text 2/Packages/SASS"]
+	path = Library/Application Support/Sublime Text 2/Packages/SASS
+	url = https://github.com/nathos/sass-textmate-bundle.git
