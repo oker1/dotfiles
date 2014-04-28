@@ -1,4 +1,10 @@
 export GOROOT=$HOME/Dev/go-platform
-export PATH=$HOME/.rvm/bin:/opt/homebrew/bin:/opt/homebrew/sbin:$HOME/Dev/java/gradle/bin:/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin:$HOME/.bin:$GOROOT/bin:~/.composer/vendor/bin:$PATH
+export GOPATH=$HOME/Dev/go-projects
+export PATH=$HOME/.bin:$GOROOT/bin:$GOPATH/bin:~/.composer/vendor/bin:$PATH
+export PATH=/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin:$PATH
+export PATH=$HOME/Dev/java/gradle/bin:$PATH
+export PATH=$HOME/.rvm/bin:/opt/homebrew/bin:/opt/homebrew/sbin:$PATH
+export PATH=/opt/chefdk/bin:$PATH
+export M2_HOME=/opt/homebrew/opt/maven/libexec
 
 alias be="bundle exec"
