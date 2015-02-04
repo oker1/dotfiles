@@ -55,3 +55,6 @@
 [submodule "Library/Application Support/Sublime Text 2/Packages/SASS"]
 	path = Library/Application Support/Sublime Text 2/Packages/SASS
 	url = https://github.com/nathos/sass-textmate-bundle.git
+[submodule "Library/Application Support/Sublime Text 2/Packages/EditorConfig"]
+	path = Library/Application Support/Sublime Text 2/Packages/EditorConfig
+	url = git@github.com:sindresorhus/editorconfig-sublime.git
