@@ -1,2 +1,2 @@
 alias day="ddcctl -d 1 -b 100 -c 40"
-alias night="ddcctl -d 1 -b 0 -c 20"
+alias night="ddcctl -d 1 -b 10 -c 20"
