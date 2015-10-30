@@ -1,6 +1,6 @@
 my_calendar () {
   local cache_file=/tmp/calendar-checked
-  local cache_timeout=60
+  local cache_timeout=300
   eval $(stat -s $cache_file)
   local currtime=`date +%s`
   local diff=$((currtime - st_mtime))
