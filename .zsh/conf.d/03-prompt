@@ -8,7 +8,7 @@ my_calendar () {
   local tomorrow=`date -v +1d +%Y-%m-%d`
 
   if [ $diff -ge $cache_timeout ]; then
-    gcalcli --military --nostarted --calendar "$GOOGLE_CALENDAR" --nocolor --tsv agenda "$today" "$tomorrow" | head -n 1 | awk 'BEGIN { FS = "[\t]+" } ; {print $1 " " $2, substr($NF,0,30); exit}' > /tmp/calendar-checked
+    ~/.gcalcli/bin/gcalcli --military --nostarted --calendar "$GOOGLE_CALENDAR" --nocolor --tsv agenda "$today" "$tomorrow" | head -n 1 | awk 'BEGIN { FS = "[\t]+" } ; {print $1 " " $2, substr($NF,0,30); exit}' > /tmp/calendar-checked
   fi
 
   cat $cache_file
