@@ -58,3 +58,6 @@
 [submodule "Library/Application Support/Sublime Text 2/Packages/EditorConfig"]
 	path = Library/Application Support/Sublime Text 2/Packages/EditorConfig
 	url = git@github.com:sindresorhus/editorconfig-sublime.git
+[submodule ".rvm"]
+	path = .rvm
+	url = https://github.com/rvm/rvm
