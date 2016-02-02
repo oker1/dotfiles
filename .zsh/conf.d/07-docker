@@ -1,3 +1,5 @@
- export DOCKER_TLS_VERIFY=1
- export DOCKER_HOST=tcp://`boot2docker ip`:2376
- export DOCKER_CERT_PATH=~/.boot2docker/certs/boot2docker-vm
+ENV=$(docker-machine env default)
+
+if [ $? -eq 0 ]; then
+  eval $ENV
+fi
