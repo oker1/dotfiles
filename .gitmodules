@@ -1,12 +1,6 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = https://github.com/robbyrussell/oh-my-zsh.git
-[submodule ".vim/bundle/fugitive"]
-	path = .vim/bundle/fugitive
-	url = https://github.com/tpope/vim-fugitive.git
-[submodule ".vim/bundle/nerdtree"]
-	path = .vim/bundle/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
 [submodule "Library/Application Support/Sublime Text 2/Packages/Git"]
 	path = Library/Application Support/Sublime Text 2/Packages/Git
 	url = https://github.com/kemayo/sublime-text-2-git.git
