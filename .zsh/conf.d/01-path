@@ -1,4 +1,4 @@
-export GOROOT=$HOME/Dev/go-platform
+export GOROOT=/opt/homebrew/opt/go/libexec/
 export GOPATH=$HOME/Dev/go-projects
 export PATH=$HOME/.bin:$GOROOT/bin:$GOPATH/bin:~/.composer/vendor/bin:$PATH
 export PATH=/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin:$PATH
