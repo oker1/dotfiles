@@ -1,6 +1,5 @@
-[user]
-	name = Zsolt Takács
-	email = zsolt@takacs.cc
+[include]
+	path = ~/.gituser
 [branch]
 	autosetuprebase = always
 	autosetupmerge = true
@@ -27,3 +26,9 @@
 	enabled = 1
 [credential]
 	helper = osxkeychain
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path =
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
