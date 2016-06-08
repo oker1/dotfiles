@@ -55,3 +55,6 @@
 [submodule ".rvm"]
 	path = .rvm
 	url = https://github.com/rvm/rvm
+[submodule "Library/Application Support/Sublime Text 2/Packages/MarkdownEditing"]
+	path = Library/Application Support/Sublime Text 2/Packages/MarkdownEditing
+	url = https://github.com/SublimeText-Markdown/MarkdownEditing.git
