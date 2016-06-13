@@ -1,23 +1,23 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = https://github.com/robbyrussell/oh-my-zsh.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/Git"]
-	path = Library/Application Support/Sublime Text 2/Packages/Git
+[submodule "Library/Application Support/Sublime Text 3/Packages/Git"]
+	path = Library/Application Support/Sublime Text 3/Packages/Git
 	url = https://github.com/kemayo/sublime-text-2-git.git
 [submodule ".zsh/git-prompt"]
 	path = .zsh/git-prompt
 	url = https://github.com/olivierverdier/zsh-git-prompt.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/SublimeChef"]
-	path = Library/Application Support/Sublime Text 2/Packages/SublimeChef
+[submodule "Library/Application Support/Sublime Text 3/Packages/SublimeChef"]
+	path = Library/Application Support/Sublime Text 3/Packages/SublimeChef
 	url = https://github.com/cabeca/SublimeChef.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/IndentGuides"]
-	path = Library/Application Support/Sublime Text 2/Packages/IndentGuides
+[submodule "Library/Application Support/Sublime Text 3/Packages/IndentGuides"]
+	path = Library/Application Support/Sublime Text 3/Packages/IndentGuides
 	url = https://github.com/SublimeText/IndentGuides.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/TomorrowTheme.tmbundle"]
-	path = Library/Application Support/Sublime Text 2/Packages/TomorrowTheme.tmbundle
+[submodule "Library/Application Support/Sublime Text 3/Packages/TomorrowTheme.tmbundle"]
+	path = Library/Application Support/Sublime Text 3/Packages/TomorrowTheme.tmbundle
 	url = https://github.com/theymaybecoders/sublime-tomorrow-theme.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein"]
-	path = Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein
+[submodule "Library/Application Support/Sublime Text 3/Packages/Shell Turtlestein"]
+	path = Library/Application Support/Sublime Text 3/Packages/Shell Turtlestein
 	url = https://github.com/misfo/Shell-Turtlestein
 [submodule ".rbenv"]
 	path = .rbenv
@@ -25,36 +25,36 @@
 [submodule ".ruby-build"]
 	path = .ruby-build
 	url = https://github.com/sstephenson/ruby-build.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/SublimeERB"]
-	path = Library/Application Support/Sublime Text 2/Packages/SublimeERB
+[submodule "Library/Application Support/Sublime Text 3/Packages/SublimeERB"]
+	path = Library/Application Support/Sublime Text 3/Packages/SublimeERB
 	url = https://github.com/eddorre/SublimeERB.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/Clipboard History"]
-	path = Library/Application Support/Sublime Text 2/Packages/Clipboard History
+[submodule "Library/Application Support/Sublime Text 3/Packages/Clipboard History"]
+	path = Library/Application Support/Sublime Text 3/Packages/Clipboard History
 	url = https://github.com/kemayo/sublime-text-2-clipboard-history
-[submodule "Library/Application Support/Sublime Text 2/Packages/Sublime-Erlang"]
-	path = Library/Application Support/Sublime Text 2/Packages/Sublime-Erlang
+[submodule "Library/Application Support/Sublime Text 3/Packages/Sublime-Erlang"]
+	path = Library/Application Support/Sublime Text 3/Packages/Sublime-Erlang
 	url = https://github.com/fjl/Sublime-Erlang.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/SublimErl"]
-	path = Library/Application Support/Sublime Text 2/Packages/SublimErl
+[submodule "Library/Application Support/Sublime Text 3/Packages/SublimErl"]
+	path = Library/Application Support/Sublime Text 3/Packages/SublimErl
 	url = https://github.com/ostinelli/SublimErl.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/Cucumber"]
-	path = Library/Application Support/Sublime Text 2/Packages/Cucumber
+[submodule "Library/Application Support/Sublime Text 3/Packages/Cucumber"]
+	path = Library/Application Support/Sublime Text 3/Packages/Cucumber
 	url = https://github.com/npverni/cucumber-sublime2-bundle.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/GitGutter"]
-	path = Library/Application Support/Sublime Text 2/Packages/GitGutter
+[submodule "Library/Application Support/Sublime Text 3/Packages/GitGutter"]
+	path = Library/Application Support/Sublime Text 3/Packages/GitGutter
 	url = https://github.com/jisaacks/GitGutter.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/Better CoffeeScript"]
-	path = Library/Application Support/Sublime Text 2/Packages/Better CoffeeScript
+[submodule "Library/Application Support/Sublime Text 3/Packages/Better CoffeeScript"]
+	path = Library/Application Support/Sublime Text 3/Packages/Better CoffeeScript
 	url = https://github.com/aponxi/sublime-better-coffeescript.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/SASS"]
-	path = Library/Application Support/Sublime Text 2/Packages/SASS
+[submodule "Library/Application Support/Sublime Text 3/Packages/SASS"]
+	path = Library/Application Support/Sublime Text 3/Packages/SASS
 	url = https://github.com/nathos/sass-textmate-bundle.git
-[submodule "Library/Application Support/Sublime Text 2/Packages/EditorConfig"]
-	path = Library/Application Support/Sublime Text 2/Packages/EditorConfig
+[submodule "Library/Application Support/Sublime Text 3/Packages/EditorConfig"]
+	path = Library/Application Support/Sublime Text 3/Packages/EditorConfig
 	url = git@github.com:sindresorhus/editorconfig-sublime.git
 [submodule ".rvm"]
 	path = .rvm
 	url = https://github.com/rvm/rvm
-[submodule "Library/Application Support/Sublime Text 2/Packages/MarkdownEditing"]
-	path = Library/Application Support/Sublime Text 2/Packages/MarkdownEditing
+[submodule "Library/Application Support/Sublime Text 3/Packages/MarkdownEditing"]
+	path = Library/Application Support/Sublime Text 3/Packages/MarkdownEditing
 	url = https://github.com/SublimeText-Markdown/MarkdownEditing.git
