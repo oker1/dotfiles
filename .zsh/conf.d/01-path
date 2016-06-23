@@ -6,6 +6,8 @@ export PATH=$HOME/Dev/java/gradle/bin:$PATH
 export PATH=$HOME/.rvm/bin:/opt/homebrew/bin:/opt/homebrew/sbin:$PATH
 export PATH=/opt/chefdk/bin:$PATH
 export PATH=$HOME/Library/Python/2.7/bin:$PATH
+export PATH=$HOME/.cargo/bin:$PATH
 export M2_HOME=/opt/homebrew/opt/maven/libexec
+export RUST_SRC_PATH=$HOME/Projects/rustc-1.9.0/src
 
 alias be="bundle exec"
