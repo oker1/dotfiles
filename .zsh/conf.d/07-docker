@@ -1,5 +1,0 @@
-ENV=$(docker-machine env default)
-
-if [ $? -eq 0 ]; then
-  eval $ENV
-fi
