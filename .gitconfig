@@ -34,3 +34,5 @@
 	trustExitCode = true
 [diff]
 	compactionHeuristic = true
+[pull]
+	rebase = preserve
