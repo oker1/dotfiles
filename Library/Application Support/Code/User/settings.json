@@ -2,8 +2,14 @@
 {
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1000,
-    "editor.renderWhitespace": true,
+    "editor.renderWhitespace": "all",
     "files.trimTrailingWhitespace": true,
     "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false
+    "telemetry.enableCrashReporter": false,
+    "editor.cursorBlinking": "solid",
+    "git.autofetch": false,
+    "editor.scrollBeyondLastLine": false,
+    "editor.detectIndentation": false,
+    "go.useLanguageServer": true,
+    "go.go.formatOnSave": false
 }
