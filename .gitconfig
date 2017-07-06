@@ -36,3 +36,5 @@
 	compactionHeuristic = true
 [pull]
 	rebase = preserve
+[core]
+	excludesfile = ~/.gitignore_global
