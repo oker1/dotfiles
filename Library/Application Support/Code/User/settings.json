@@ -11,5 +11,7 @@
     "editor.scrollBeyondLastLine": false,
     "editor.detectIndentation": false,
     "go.useLanguageServer": true,
-    "go.go.formatOnSave": false
+    "go.go.formatOnSave": false,
+    "editor.fontFamily": "Iosevka Type Slab",
+    "editor.fontSize": 14
 }

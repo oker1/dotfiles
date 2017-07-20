@@ -1,4 +1,3 @@
-export BREW_PREFIX=`brew --prefix`
 export GOROOT=$BREW_PREFIX/opt/go/libexec/
 export GOPATH=$HOME/Dev/go-projects
 export PATH=$HOME/.bin:$GOROOT/bin:$GOPATH/bin:~/.composer/vendor/bin:$PATH
