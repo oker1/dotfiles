@@ -1,3 +1,4 @@
 alias day="ddcctl -d 1 -b 100 -c 40"
 alias night="ddcctl -d 1 -b 10 -c 20"
 alias youtube720p="youtube-dl --external-downloader aria2c --external-downloader-args '-c -j 3 -x 3 -s 3 -k 1M' -f 'bestvideo[height<=720]+bestaudio/best[height<=720]'"
+alias aria-dl="aria2c -c -j 10 -x 10 -s 10 -k 1M"
