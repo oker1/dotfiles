@@ -5,4 +5,3 @@ unsetopt correct_all
 bindkey '^[[H' beginning-of-line
 bindkey '^[[F' end-of-line
 
-source /usr/local/Bluemix/bx/zsh_autocomplete
