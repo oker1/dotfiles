@@ -13,5 +13,6 @@
     "go.useLanguageServer": true,
     "go.go.formatOnSave": false,
     "editor.fontFamily": "Iosevka Type Slab",
-    "editor.fontSize": 14
+    "editor.fontSize": 14,
+    "markdown.extension.preview.autoShowPreviewToSide" : true
 }
