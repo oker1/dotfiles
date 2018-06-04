@@ -1,0 +1,9 @@
+#!/usr/bin/env python2.7
+
+import os, json, urllib2, sys
+
+secret = os.getenv('ARIA_RPC_SECRET')
+
+jsonreq = json.dumps({'jsonrpc':'2.0', 'id':'qwer','method':'aria2.addUri', 'params':["token:" + secret, sys.argv[1:]]})
+res = urllib2.urlopen('http://localhost:6800/jsonrpc', jsonreq)
+print res.read()
