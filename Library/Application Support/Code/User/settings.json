@@ -14,6 +14,5 @@
     "go.go.formatOnSave": false,
     "editor.fontFamily": "Iosevka Type Slab",
     "editor.fontSize": 14,
-    "markdown.extension.preview.autoShowPreviewToSide" : true,
     "clojureVSCode.autoStartNRepl": false
 }
