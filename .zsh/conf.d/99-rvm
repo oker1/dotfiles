@@ -1,6 +1,0 @@
-. $HOME/.rvm/scripts/rvm
-
-# needed for HEAD^ to work
-setopt NO_NOMATCH
-
-export LC_CTYPE="en_US.UTF-8"

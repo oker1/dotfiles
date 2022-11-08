@@ -1,1 +1,5 @@
-export JAVA_HOME=`/usr/libexec/java_home -v 1.8`
+if [[ "$OSTYPE" == "linux-gnu"* ]]; then
+  export JAVA_HOME=$(find /usr/lib/jvm/ -maxdepth 1 -type d | tail -n1)
+elif [[ "$OSTYPE" == "darwin"* ]]; then
+  export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
+fi
