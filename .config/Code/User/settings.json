@@ -6,5 +6,6 @@
         "**/.metals": true,
         "**/.ammonite": true
     },
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true
 }
