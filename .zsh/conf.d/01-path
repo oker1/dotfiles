@@ -1,15 +1,1 @@
-export GOROOT=$BREW_PREFIX/opt/go/libexec/
-export GOPATH=$HOME/Dev/go-projects
-
-export PATH=$GOROOT/bin:$GOPATH/bin:~/.composer/vendor/bin:$PATH:$HOME/.bin
-export PATH=/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin:$PATH
-export PATH=$HOME/Dev/java/gradle/bin:$PATH
-export PATH=$HOME/.rvm/bin:$BREW_PREFIX/bin:$BREW_PREFIX/sbin:$PATH
-export PATH=/opt/chefdk/bin:$PATH
-export PATH=$HOME/.cargo/bin:$PATH
-export PATH=$BREW_PREFIX/opt/python/libexec/bin:$PATH
-
-export M2_HOME=$BREW_PREFIX/opt/maven/libexec
-export RUST_SRC_PATH=$HOME/Projects/rustc-1.9.0/src
-
-alias be="bundle exec"
+export PATH=$HOME/.local/bin:$PATH

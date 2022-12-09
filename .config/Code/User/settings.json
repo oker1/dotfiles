@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "'Fira Code', 'monospace', monospace",
+    "editor.renderWhitespace": "all",
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.metals": true,
+        "**/.ammonite": true
+    },
+    "editor.fontLigatures": true
+}
