@@ -2,6 +2,3 @@ export EDITOR=nano
 
 unsetopt correct_all
 
-bindkey '^[[H' beginning-of-line
-bindkey '^[[F' end-of-line
-
