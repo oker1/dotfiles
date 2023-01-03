@@ -7,5 +7,8 @@
         "**/.ammonite": true
     },
     "editor.fontLigatures": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "gitlens.plusFeatures.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.currentLine.pullRequests.enabled": false
 }
