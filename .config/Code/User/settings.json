@@ -7,8 +7,20 @@
         "**/.ammonite": true
     },
     "editor.fontLigatures": true,
-    "editor.formatOnSave": true,
     "gitlens.plusFeatures.enabled": false,
     "gitlens.currentLine.enabled": false,
-    "gitlens.currentLine.pullRequests.enabled": false
+    "gitlens.currentLine.pullRequests.enabled": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "files.autoSave": "onFocusChange",
+    "jupyter.askForKernelRestart": false,
+    "notebook.output.textLineLimit": 120,
+    "explorer.confirmDelete": false,
+    "git.openRepositoryInParentFolders": "never",
+    "editor.suggest.showWords": false,
+    "editor.scrollBeyondLastLine": false,
+    "open-in-browser.default": "firefox",
+    "php.format.codeStyle": "Off",
+    "editor.formatOnSave": true
 }

@@ -35,7 +35,7 @@
 [diff]
 	compactionHeuristic = true
 [pull]
-	rebase = preserve
+	rebase = merges
 [core]
 	excludesfile = ~/.gitignore_global
 	autocrlf = input
