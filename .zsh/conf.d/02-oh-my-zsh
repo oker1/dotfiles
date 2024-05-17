@@ -31,4 +31,6 @@ DISABLE_AUTO_UPDATE="true"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 plugins=(git sbt safe-paste docker dotenv kubectl helm)
 
+zstyle ':omz:plugins:*' aliases no
+
 source $ZSH/oh-my-zsh.sh
