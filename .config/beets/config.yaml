@@ -1,9 +1,0 @@
-directory: /Volumes/dat/Zene/Collection
-library: /Volumes/dat/Zene/Collection/beet.db
-
-plugins: web discogs embedart fetchart edit duplicates fromfilename
-
-web:
-  host: 0.0.0.0 
-import:
-  move: yes
