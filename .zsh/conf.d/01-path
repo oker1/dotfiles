@@ -3,7 +3,7 @@ if [[ $(arch) != arm64* ]]; then
     export PYENV_ROOT="$HOME/.pyenv-x86"
     export PATH=$HOME/.localx86/share/poetry:/usr/local/bin:$PATH
 else
-#    export PATH=/opt/homebrew/bin:$PATH
+    export PATH=/opt/homebrew/bin:$PATH
 fi
 
 eval "$(pyenv init --path)"
