@@ -1,6 +1,0 @@
-# The following two lines were added by the sbt installSbtn task:
-fpath=($fpath $HOME/.sbt/1.0/completions)
-autoload -Uz compinit; compinit
-
-
-path=($path /$HOME/.sbt/1.0/bin)
