@@ -1,5 +1,9 @@
-if [[ "$OSTYPE" == "linux-gnu"* ]]; then
-  export JAVA_HOME=$(find /usr/lib/jvm/ -maxdepth 1 -type d | tail -n1)
-elif [[ "$OSTYPE" == "darwin"* ]]; then
-  export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
+DISABLE_JAVA=${DISABLE_JAVA:-0}
+if [[ ! $DISABLE_JAVA ]]; then
+  if [[ "$OSTYPE" == "linux-gnu"* ]]; then
+    JAVA_HOME=$(find /usr/lib/jvm/ -name java-11-openjdk-amd64 -maxdepth 1 -type d | tail -n1)
+  elif [[ "$OSTYPE" == "darwin"* ]]; then
+    JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
+  fi
+  export JAVA_HOME
 fi
