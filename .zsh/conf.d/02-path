@@ -1,12 +1,14 @@
-# use x86 versions of important development tools in x86 mode
-if [[ $(arch) != arm64* ]]; then
-    export PYENV_ROOT="$HOME/.pyenv-x86"
-    export PATH=$HOME/.localx86/share/poetry/bin:/usr/local/bin:$PATH
-    export POETRY_CACHE_DIR=/Users/diztakac/Library/Caches/pypoetryx86
-else
-    export PATH=$HOME/.local/bin:/opt/homebrew/bin:$PATH
-fi
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    # use x86 versions of important development tools in x86 mode
+    if [[ $(arch) != arm64* ]]; then
+        export PYENV_ROOT="$HOME/.pyenv-x86"
+        export PATH=$HOME/.localx86/share/poetry/bin:/usr/local/bin:$PATH
+        export POETRY_CACHE_DIR=/Users/diztakac/Library/Caches/pypoetryx86
+    else
+        export PATH=$HOME/.local/bin:/opt/homebrew/bin:$PATH
+    fi
 
-eval "$(pyenv init --path)"
-eval "$(brew shellenv)"
-eval "$(pyenv init -)"
+    eval "$(pyenv init --path)"
+    eval "$(brew shellenv)"
+    eval "$(pyenv init -)"
+fi
