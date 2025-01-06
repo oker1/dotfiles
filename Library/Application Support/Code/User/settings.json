@@ -1,0 +1,29 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "\"JetBrains Mono\", Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 15,
+    "git.openRepositoryInParentFolders": "never",
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnSave": true,
+    "editor.scrollBeyondLastLine": false,
+    "workbench.editorAssociations": {
+        "file:/**/*.parquet": "jupyter-data-wrangler"
+    },
+    "window.autoDetectColorScheme": true,
+    "terraform.languageServer.terraform.path": "/opt/homebrew/bin/terraform",
+    "terraform.languageServer.path": "/opt/homebrew/bin/terraform-lsp",
+    "terraform.codelens.referenceCount": true,
+    "[terraform]": {
+        "editor.defaultFormatter": "hashicorp.terraform",
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file"
+    },
+    "[terraform-vars]": {
+        "editor.defaultFormatter": "hashicorp.terraform",
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file"
+    },
+    "files.insertFinalNewline": true,
+}
