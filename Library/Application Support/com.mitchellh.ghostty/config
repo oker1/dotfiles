@@ -1,3 +1,7 @@
 font-size = 16
 font-family = "JetBrains Mono"
 font-feature = "-calt"
+theme = dark:catppuccin-mocha,light:catppuccin-latte
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor

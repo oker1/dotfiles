@@ -26,4 +26,8 @@
         "editor.formatOnSaveMode": "file"
     },
     "files.insertFinalNewline": true,
+    "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
+    "workbench.preferredLightColorTheme": "Catppuccin Latte",
+    "workbench.colorTheme": "Catppuccin Latte",
+    "typescript.updateImportsOnFileMove.enabled": "always",
 }
