@@ -30,4 +30,6 @@
     "workbench.preferredLightColorTheme": "Catppuccin Latte",
     "workbench.colorTheme": "Catppuccin Latte",
     "typescript.updateImportsOnFileMove.enabled": "always",
+    "files.autoSaveDelay": 333,
+    "hediet.vscode-drawio.resizeImages": null,
 }
