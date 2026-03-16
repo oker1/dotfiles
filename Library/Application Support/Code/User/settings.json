@@ -13,7 +13,6 @@
     },
     "window.autoDetectColorScheme": true,
     "terraform.languageServer.terraform.path": "/opt/homebrew/bin/terraform",
-    "terraform.languageServer.path": "/opt/homebrew/bin/terraform-lsp",
     "terraform.codelens.referenceCount": true,
     "[terraform]": {
         "editor.defaultFormatter": "hashicorp.terraform",
@@ -32,4 +31,21 @@
     "typescript.updateImportsOnFileMove.enabled": "always",
     "files.autoSaveDelay": 333,
     "hediet.vscode-drawio.resizeImages": null,
+    "git.blame.editorDecoration.enabled": true,
+    "terraform.experimentalFeatures.prefillRequiredFields": true,
+    "editor.wordBasedSuggestions": "off",
+    "git.confirmSync": false,
+    "workbench.editor.enablePreview": false,
+    "dev.containers.dockerPath": "podman",
+    "launch": {
+        "configurations": []
+    },
+    "git.openDiffOnClick": false,
+    "docker.extension.dockerEngineAvailabilityPrompt": false,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "azureResourceGroups.enableChatStandIn": false,
+    "github-enterprise.uri": "https://zeiss.ghe.com",
+    "github.copilot.advanced": {
+        "authProvider": "github-enterprise"
+    },
 }

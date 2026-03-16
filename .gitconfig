@@ -47,3 +47,6 @@
 	required = true
 [remote "origin"]
 	prune = true
+[user]
+name = "Zsolt Takács"
+email = "zsolt.takacs@zeiss.com"
